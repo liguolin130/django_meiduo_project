@@ -1,0 +1,7 @@
+# 短信验证码有效期
+SMS_CODE_EXPIRES = 60*60
+
+# 短迅模版编号
+SMS_CODE_TEMP_ID = 1
+
+SEND_SMS_CODE_INTERVAL = 6000
